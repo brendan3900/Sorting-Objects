@@ -1,7 +1,7 @@
 # Sorting-Objects-Cplusplus
 Creating classes, class inheritance, reading data from external text files, sorting lists of pointers, dynamic memory allocation, displaying data in tabular format.
 
-
+section01.txt is the text file being read by the program.
 
 Summary of Approach
 
